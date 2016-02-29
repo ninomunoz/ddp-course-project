@@ -4,4 +4,4 @@ This github repository contains the server.R and ui.R code for my shiny applicat
 
 You can access the application here: http://ninomunoz.shinyapps.io/ddp-course-project/
 
-You can access my slidify presentation here: http://blah.com
+You can access my R presentation here: http://rpubs.com/ninomunoz/ddp-course-project
